@@ -9,7 +9,8 @@
       "alias": {
         "hello": "./src/hello",
       }
-    }]
+    }],
+    "@babel/plugin-proposal-optional-chaining"
   ],
   
 }
